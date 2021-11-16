@@ -42,5 +42,15 @@ namespace texteditor
         {
 
         }
+
+        private void buttonSave_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonSaveAs_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
